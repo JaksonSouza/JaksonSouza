@@ -31,7 +31,7 @@
 <p> - 👨‍💻 Engenheiro de Software Jr. na WA Agência Digital. </p>
 <p> - ❤️ Entusiasta em tecnologias de desenvolvimento Web e Mobile. </p>
 <p> - 🎯 Interesse: Flutter, Java, Python, C++, Lua, API, HTML, CSS, JavaScript, PHP. </p>
-<p> - 💭 “O poder da imaginação torna-nos infinitos”. </p>
+<p> - 💭 “O poder da imaginação torna-nos infinitos”.</p>
   
 </div>
 
