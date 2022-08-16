@@ -1,21 +1,21 @@
 <p align="center">
-  <a href="#">
+  <a>
     <img align="center" width="300" src="jakson.png" />
   </a>
-  <a href="#">
+  <a>
     <img align="center" width="450" src="dev.png" />
   </a>
 </p>
 </br>
 </br>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a>
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaksonSouza&layout=compact&langs_count=6&theme=dracula"
     />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a>
     <img
       align="center"
       height="165"
@@ -57,15 +57,15 @@
 ## Meus contatos :iphone:
 
 <p align="center">
-    <a href="https://github.com/JaksonSouza">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/JaksonSouza">
+    <a>
+        <img  src="https://img.shields.io/badge/linkedin-%23100000.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:jaksonsouza.dev@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jaksonsouza.dev@gmail.com">
+    <a>
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="#">
+    <a>
         <img src="https://img.shields.io/badge/lenny%234647-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white">
     </a>
 </p>
