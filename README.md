@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="#!">
+  <a href="#">
     <img align="center" width="300" src="jakson.png" />
   </a>
-  <a href="#!">
+  <a href="#">
     <img align="center" width="450" src="dev.png" />
   </a>
 </p>
