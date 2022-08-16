@@ -9,13 +9,13 @@
 </br>
 </br>
 <p align="center">
-  <a>
+  <a href="#">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaksonSouza&layout=compact&langs_count=6&theme=dracula"
     />
   </a>
-  <a>
+  <a href="#">
     <img
       align="center"
       height="165"
@@ -57,15 +57,15 @@
 ## Meus contatos :iphone:
 
 <p align="center">
-    <a>
+    <a href="https://www.linkedin.com/in/jakson-souza-35b8b7232">
         <img  src="https://img.shields.io/badge/linkedin-%23100000.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a>
+    <a href="mailto:jaksonsouza.dev@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a>
+    <a href="#">
         <img src="https://img.shields.io/badge/lenny%234647-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white">
     </a>
 </p>
