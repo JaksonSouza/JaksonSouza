@@ -28,7 +28,7 @@
 
 ### Sobre mim
 <div style="display: inline_block"  >
-<p> - 👨‍💻 Engenheiro de Software Jr. na MilkUp. </p>
+<p> - 👨‍💻 Engenheiro de Software Pl. na MilkUp. </p>
 <p> - ❤️ Entusiasta em tecnologias de desenvolvimento Web e Mobile. </p>
 <p> - 🎯 Interesse: Laravel, Vue.js, Flutter, Java, Python, C++, Lua, API, HTML, CSS, JavaScript, PHP. </p>
 <p> - 💭 “Como eu não sabia que era impossível. Fui lá e fiz”.</p>
